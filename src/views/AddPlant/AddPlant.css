@@ -1,0 +1,61 @@
+.main-div-add{
+    background-color: aliceblue;
+    margin-top: -40px;
+    padding: 0;
+}
+.logo-img{
+    height: 50px;
+}
+.title{
+    display: block;
+    margin:20px auto;
+    font-size: 25px;
+    text-align: center;
+    color: #143114;
+}
+.form-div{
+    display: block;
+    position: relative;
+    margin: 10px auto;
+    width: 340px;
+    height: 400px;
+    border: 1px solid gray;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #98e698;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
+}
+.plant-input{
+    display: block;
+    margin:10px auto;
+    width: 40px;
+    height: 25px;
+    padding: 4px;
+    border-radius: 5px;
+    border: 1px solid #143114;
+}
+
+.img-preview{
+    display: block;
+    height: 200px;
+    width: 250px;
+    border:2px solid #143114;
+    object-fit: cover;
+    margin:10px auto;
+}
+.add-btn{
+   margin-left: 120px;
+   padding: 5px;
+   border-radius: 5px;
+   border: 1px solid #143114;
+   width: 100px;
+   background-color: #143114;
+   color: white;
+}
+.back-link{
+    text-decoration: none;
+    margin-left: 690px;
+    font-size: 22px;
+    color: #143114;
+}

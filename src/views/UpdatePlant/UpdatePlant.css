@@ -1,0 +1,49 @@
+.title{
+    text-align: center;
+    color: #143114;
+    margin-top: 70px;
+}
+.plant-input{
+    display: block;
+    margin: 10px;
+    width: 300px;
+    padding: 4px;
+    border-radius: 5px;
+    border: 1px solid #143114;
+}
+.form-section{
+    margin: 10px auto;
+    width: 400px;
+    border: 1px solid gray;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 5px;
+    background-color: #98e698;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.img-preview{
+    height: 100px;
+    width: 150px;
+    object-fit: cover;
+    margin-left: 90px;
+}
+.add-btn{
+   margin-left: 120px;
+   padding: 5px;
+   border-radius: 5px;
+   border: 1px solid #143114;
+   width: 100px;
+   background-color: #143114;
+   color: white;
+   cursor: pointer;
+}
+.back-link{
+    text-decoration: none;
+    margin-left: 690px;
+    font-size: 22px;
+    color: #143114;
+}
+body{
+    background-color: #d9f2d9;
+}
