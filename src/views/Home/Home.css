@@ -1,0 +1,37 @@
+
+.main-div{
+    background-color: aliceblue;
+}
+.addImage-btn{
+    height: 44px;
+    position: fixed;
+    right: 90px;
+    bottom: 70px;
+    z-index: 10;
+    cursor: pointer;
+}
+.plantCard-div{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 180px;
+}
+.logo{
+  height: 50px;
+  display: block;
+  margin: 20px auto;
+}
+
+
+@media screen and (max-width: 500px) {
+    .plantCard-div{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 10px;
+    }
+    .addImage-btn{
+        
+        right: 20px;
+        bottom: 30px;
+        
+    }
+}
